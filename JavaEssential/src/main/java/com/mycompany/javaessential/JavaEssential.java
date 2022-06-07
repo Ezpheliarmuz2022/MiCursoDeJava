@@ -10,7 +10,7 @@ package com.mycompany.javaessential;
  * @author USER
  */
 public class JavaEssential {
-
+/*main metodo principal*/
     public static void main(String[] args) {
         /*1. Sintaxis de Java*/
         System.out.println("1. Sintaxis de Java");
